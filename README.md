@@ -7,7 +7,7 @@ onep5 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-
 onep6 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-19%20233552.png
 onep7 :
 onep8 :
-onep9 :
+onep9 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-19%20233730.png
 onep10 :
 
 
