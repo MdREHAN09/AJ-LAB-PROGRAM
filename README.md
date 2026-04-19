@@ -32,7 +32,9 @@ ImageButtonExample : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Scree
 
 JListExample : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20004037.png
 TabbedPan : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20004202.png
-CountryCapitalExample : 
+CountryCapitalExample : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20004441.png
+ColorTabbedPaneExample : 
+
 
 
 
