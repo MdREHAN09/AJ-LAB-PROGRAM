@@ -31,7 +31,9 @@ ButtonExample : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot
 ImageButtonExample : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20003810.png
 
 JListExample : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20004037.png
-TabbedPan : 
+TabbedPan : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20004202.png
+CountryCapitalExample : 
+
 
 
 
