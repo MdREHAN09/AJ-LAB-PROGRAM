@@ -15,7 +15,7 @@ twop2 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-
 twop3 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20000843.png
 twop4 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20000901.png
 twop5 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20000920.png
-twop6 : 
+twop6 : https://github.com/MdREHAN09/AJ-LAB-PROGRAM/blob/main/Screenshot%202026-04-20%20000936.png
 twop7 : 
 twop8 : 
 twop8 : 
